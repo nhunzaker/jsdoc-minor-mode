@@ -1,6 +1,6 @@
 # JSDoc Minor Mode
 
-I wanted basic syntax highlighting for JSDoc in web-mode. So here we
+I wanted basic syntax highlighting for JSDoc in [web-mode](http://web-mode.org). So here we
 are.
 
 ## Fair warning
