@@ -26,3 +26,5 @@ Pull down `jsdoc-minor-mode.el`. Then add this to your init file:
 
 (add-hook 'web-mode 'add-jsdoc-if-javascript)
 ```
+
+![screenshot](./screenshot.png)
